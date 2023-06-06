@@ -1,5 +1,7 @@
 # contact-app
 
+## Node Version
+```v18.12.1```
 ## Project setup
 ```
 yarn install
